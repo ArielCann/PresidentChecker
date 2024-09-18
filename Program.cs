@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+//Ariel Cann T00422471
 using PresidentChecker;
 using System.Reflection.Metadata.Ecma335;
 using System.Security.Cryptography.X509Certificates;
